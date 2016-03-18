@@ -5,28 +5,28 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Introduction/Background /Objectives:\nThe purpose of the study was to determine the effect of Peyow\nAqua Pilates exercises on land-based static and dynamic balance\nfor participants with disabilities and chronic conditions.\_"
-datePublished: '2016-03-18T03:35:51.106Z'
-dateModified: '2016-03-18T03:35:46.934Z'
+description: "WITH PHYSICAL DISABILITIES\_"
+datePublished: '2016-03-18T03:39:59.340Z'
+dateModified: '2016-03-18T03:39:36.622Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-18-introductionbackground-objectives-the-purpose-of-the-stud.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-introductionbackground-objectives-the-purpose-of-the-stud.md
-published: true
 url: introductionbackground-objectives-the-purpose-of-the-stud/index.html
 _type: Article
 
 ---
-CASE STUDIES 2015 - PEYOW AQUA PILATES: 
+[CASE STUDIES 2015 - PEYOW AQUA PILATES: ][0]
 
-CHANGES IN DYNAMIC BALANCE WITHIN PARTICIPANTS 
+[CHANGES IN DYNAMIC BALANCE WITHIN PARTICIPANTS ][0]
 
-WITH PHYSICAL DISABILITIES 
+[WITH PHYSICAL DISABILITIES ][0]
 
 Introduction/Background /Objectives:
 The purpose of the study was to determine the effect of Peyow
@@ -132,4 +132,6 @@ hyperextension with the controlled Pilates movements.
 In a younger or general population, group classes of Pilates in
 the water could make a broader range of this modality more
 affordable and readily available for university students, as well
-as increase kinesthetic postural awareness.
+as increase kinesthetic postural awareness. 
+
+[0]: null
