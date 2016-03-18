@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[AquaPilates]]></title>
         <description><![CDATA[AquaPilates]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aquapilates/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 02:36:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 02:42:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aquapilates/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Benefits of Peyow Aqua Pilates</p>]]></description>
-            <link>undefined5bc664aa-96b8-4255-90ed-d63feb435360/index.html</link>
+            <link>https://thegrid.ai/aquapilates/5bc664aa-96b8-4255-90ed-d63feb435360/index.html</link>
             <guid isPermaLink="false">5bc664aa-96b8-4255-90ed-d63feb435360</guid>
-            <pubDate>Fri, 18 Mar 2016 02:36:29 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2016 02:41:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
